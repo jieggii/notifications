@@ -1,6 +1,5 @@
 # Notificatons
 [Work in progess]
-
 My tiny library of notification sounds
 
 ## Why?
@@ -12,7 +11,3 @@ They are **nice**, **smooth**, **don't cause any anxiety or fear** and **satisfy
 
 ## Contributing
 Feel free to suggest new samples by creating **pull requests**. 
-They will be accepted if the samples you add meet these criteria:
-* ...
-* ...
-
